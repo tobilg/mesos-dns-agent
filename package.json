@@ -14,11 +14,12 @@
     "Mesos DNS",
     "DNS",
     "Mesosphere",
-    "Service",
-    "Discovery",
-    "Loadbalancer",
-    "RoundRobin",
-    "SRV"
+    "Service Discovery",
+    "http",
+    "agent",
+    "request",
+    "transparent",
+    "resolve"
   ],
   "author": "TobiLG",
   "license": "MIT",
