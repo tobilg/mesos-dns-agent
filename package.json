@@ -1,6 +1,6 @@
 {
   "name": "mesosdns-http-agent",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A http.Agent which makes it possible to consume Mesos service resources by simply using the Mesos DNS service names",
   "main": "index.js",
   "scripts": {
@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/tobilg/mesosdns-http-agent",
   "dependencies": {
-    "mesosdns-client": "^0.2.0"
+    "mesosdns-client": "^0.3.0"
   }
 }
