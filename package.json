@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/tobilg/mesosdns-http-agent",
   "dependencies": {
-    "mesosdns-client": "^0.3.0"
+    "mesosdns-client": "^0.3.1"
   }
 }
